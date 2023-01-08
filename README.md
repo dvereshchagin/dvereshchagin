@@ -13,9 +13,6 @@ I've been learning to code 5+ years. I started from front-end development, but i
 * 🤝  I'm open to collaborating on startups and interesting projects
 * ⚡  I'm stocks trader
 
-<a href="https://www.github.com/dvereschagin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dvereschagin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
