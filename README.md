@@ -11,7 +11,7 @@ I've been learning to code 5+ years. I started from front-end development, but i
 * 🚀  I'm currently working on [Qure.Finance](http://qure.finance)
 * 🧠  I'm learning Android
 * 🤝  I'm open to collaborating on startups and interesting projects
-* ⚡  i'm stocks trader
+* ⚡  I'm stocks trader
 
 <a href="https://www.github.com/dvereschagin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dvereschagin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
