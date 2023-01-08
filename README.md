@@ -50,4 +50,4 @@ src="https://img.shields.io/github/followers/dvereschagin?logo=github&style=for-
 
 ![Profile views](https://gpvc.arturio.dev/dvereshchagin)  
 
-<a href="http://www.github.com/dvereschagin"><img src="https://github-readme-stats.vercel.app/api?username=dvereschagin&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dvereschagin's GitHub stats" /></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dvereshchagin&show_icons=true)  
