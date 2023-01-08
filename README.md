@@ -7,7 +7,7 @@ IOS/Android Developer
 I've been learning to code 5+ years. I started from front-end development, but i've really found a passion in mobile.
 
 * 🌍  I'm based in Kaliningrad, Russia
-* ✉️  You can contact me at [vereshhagin98@gmail.com](mailto:vereshhagin98@gmail.com)
+* ✉️  You can contact me at [vereshhagin98@gmail.com](mailto:d.vereshchagin@outlook.com)
 * 🚀  I'm currently working on [Qure.Finance](http://qure.finance)
 * 🧠  I'm learning Android
 * 🤝  I'm open to collaborating on startups and interesting projects
