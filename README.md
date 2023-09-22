@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IOS/Android Developer
 ---------------------
 
-I've been learning to code 5+ years. I started from front-end development, but i've really found a passion in mobile.
+I've been learning to code 6+ years. I started from front-end development, but i've really found a passion in mobile.
 
 * 🌍  I'm based in Kaliningrad, Russia
 * ✉️   You can contact me at [d.vereshchagin@outlook.com](mailto:d.vereshchagin@outlook.com)
