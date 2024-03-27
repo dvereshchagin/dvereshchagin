@@ -6,7 +6,7 @@ IOS Developer
 
 I've been learning to code 7+ years. I started from front-end development, but i've really found a passion in mobile.
 
-* 🌍  I'm based in Kaliningrad-Russia/Lisbon, Portugal
+* 🌍  I'm based in Kaliningrad, Russia / Lisbon, Portugal
 * ✉️   You can contact me at [d.vereshchagin@outlook.com](mailto:d.vereshchagin@outlook.com)
 * 🧠  I'm learning Android
 * 🤝  I'm open to collaborating on startups and interesting projects
