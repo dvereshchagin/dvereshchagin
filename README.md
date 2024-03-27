@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniil Vereshchagin
 ===========================================================================================================================================
 
-IOS/Android Developer
+IOS Developer
 ---------------------
 
-I've been learning to code 6+ years. I started from front-end development, but i've really found a passion in mobile.
+I've been learning to code 7+ years. I started from front-end development, but i've really found a passion in mobile.
 
-* 🌍  I'm based in Kaliningrad, Russia
+* 🌍  I'm based in Kaliningrad-Russia/Lisbon, Portugal
 * ✉️   You can contact me at [d.vereshchagin@outlook.com](mailto:d.vereshchagin@outlook.com)
 * 🧠  I'm learning Android
 * 🤝  I'm open to collaborating on startups and interesting projects
