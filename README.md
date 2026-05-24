@@ -6,7 +6,7 @@ IOS Developer
 
 I've been learning to code 7+ years. I started from front-end/ios development, but i've really found a passion in Golang.
 
-* 🌍  I'm based in Kaliningrad, Russia
+* 🌍  I'm based in Lisbon, Portugal
 * ✉️  You can contact me at [d.vereshchagin@outlook.com](mailto:d.vereshchagin@outlook.com)
 * 🤝  I'm open to collaborating on startups and interesting projects
 * ⚡   I'm stocks trader
